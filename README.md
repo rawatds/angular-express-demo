@@ -7,3 +7,8 @@ Step to run the application
 ## node server
 ## open browser with url as localhost:3000
 
+Try url:
+localhost:3000
+localhost:3000/api
+localhost:3000/xyz
+
