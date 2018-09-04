@@ -9,6 +9,7 @@ Step to run the application
 
 Try url:
 localhost:3000
-localhost:3000/api
-localhost:3000/xyz
 
+localhost:3000/api
+
+localhost:3000/xyz
